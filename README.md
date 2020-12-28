@@ -6,19 +6,24 @@
 
 
 
+
+
 ## :one: IoT Safe Mobility System이란?
 
 - 차량 관련 안전성 제고를 목적으로 IoT와 빅데이터를 활용하여 안전 기능 및 편의 기능을 종합적으로 탑재한 소프트웨어 시스템
 
 
 
+
+
 ## :two: 팀 구성 및 핵심역할
 
 - 김재현(팀장) : Android APP(Mobile), 영유아 고립사고 방지 기능
-
 - 안기훈 : Android APP(Tablet),  졸음 운전 위험 알림
 - 이새롬 : 센서제어, 교통사도 알림
 - 정재욱 : 관리자 웹 차트, 적재물 낙하 사고 알림
+
+
 
 
 
@@ -49,7 +54,8 @@
 
 
 - **개발일정** **(20.11.17~20.12.21, 약 1달)
-- ![image-20201228161520415](md-images/image-20201228161520415.png)
+
+  ![image-20201228161520415](md-images/image-20201228161520415.png)
 
 
 
@@ -102,7 +108,9 @@
 <img src="md-images/image-20201228153941743.png" alt="image-20201228153941743" style="zoom:80%;" /><img src="md-images/image-20201228153947093.png" alt="image-20201228153947093" style="zoom:80%;" />
 
 - 마이페이지 - 내 정보, 차량등록/삭제, 푸쉬설정
-<img src="md-images/image-20201228154030525.png" alt="image-20201228154030525" style="zoom: 60%;" /><img src="md-images/image-20201228154037833.png" alt="image-20201228154037833" style="zoom: 60%;" /><img src="md-images/image-20201228154048149.png" alt="image-20201228154048149" style="zoom: 60%;" /><img src="md-images/image-20201228154100509.png" alt="image-20201228154100509" style="zoom: 60%;" />
+  <img src="md-images/image-20201228154030525.png" alt="image-20201228154030525" style="zoom: 60%;" /><img src="md-images/image-20201228154037833.png" alt="image-20201228154037833" style="zoom: 60%;" />
+
+  <img src="md-images/image-20201228154048149.png" alt="image-20201228154048149" style="zoom: 60%;" /><img src="md-images/image-20201228154100509.png" alt="image-20201228154100509" style="zoom: 60%;" />
 
 
 

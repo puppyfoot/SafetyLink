@@ -32,26 +32,31 @@
 
 
 - **서비스 구성도**
+
 ![image-20201228140159769](md-images/image-20201228140159769.png)
 
 
 
 - **시스템 구성도**
+
 ![image-20201228140257627](md-images/image-20201228140257627.png)
 
 
 
 - **개발 도구**
+
 ![image-20201228161432359](md-images/image-20201228161432359.png)
 
 
 
 - **ERD**
+
 ![image-20201228150025286](md-images/image-20201228150025286.png)
 
 
 
 - **개발일정** (20.11.17~20.12.21, 약 1달)
+
 ![image-20201228161520415](md-images/image-20201228161520415.png)
 
 
@@ -79,15 +84,18 @@
 ---
 
 - 로그인 및 회원가입
+
 <img src="md-images/image-20201228153004324.png" alt="image-20201228153004324" style="zoom: 80%;" /><img src="md-images/image-20201228153012041.png" alt="image-20201228153012041" style="zoom: 80%;" />
 
 
 
 - 모바일 차량등록(모바일 :point_right:차량 인포메틱스)
+
 <img src="md-images/image-20201228153235473.png" alt="image-20201228153235473" style="zoom:80%;" />
 <img src="md-images/image-20201228153240203.png" alt="image-20201228153240203" style="zoom:80%;" />
 
 - 모바일 차량등록(모바일 인증번호 등록과 차량연동)
+
 <img src="md-images/image-20201228153611768.png" alt="image-20201228153611768" style="zoom:67%;" /><img src="md-images/image-20201228153616995.png" alt="image-20201228153616995" style="zoom:67%;" /><img src="md-images/image-20201228153622051.png" alt="image-20201228153622051" style="zoom:67%;" />
 
 

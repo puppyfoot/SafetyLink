@@ -42,11 +42,13 @@ public class AdminController {
 				
 				// 로그인 완료 후 메인페이지로 대쉬보드 설정
 				mv.addObject("centerpage", "dashboard");
-			}else {
+			}
+			else {
 				// 로그인 실패 정보 전송
 				mv.addObject("loginfail", "loginfail");
 			}
-		} catch (Exception e) {
+		} 
+			catch (Exception e) {
 			// 로그인 실패 정보 전송
 			mv.addObject("loginfail", "loginfail");
 			e.printStackTrace();
